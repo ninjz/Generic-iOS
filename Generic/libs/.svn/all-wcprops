@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/generic-iOS/!svn/ver/8/trunk/Generic/libs
+END
+LICENSE_Kazmath.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/libs/LICENSE_Kazmath.txt
+END
+LICENSE_cocos2d.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/libs/LICENSE_cocos2d.txt
+END
+LICENSE_CocosDenshion.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/libs/LICENSE_CocosDenshion.txt
+END

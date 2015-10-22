@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="212" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="testStage" tilewidth="16" tileheight="16">
+  <image source="testStage.png" width="4096" height="4096"/>
+ </tileset>
+ <tileset firstgid="65537" name="meta_tiles" tilewidth="16" tileheight="16">
+  <image source="meta_tiles.png" width="67" height="34"/>
+  <tile id="5">
+   <properties>
+    <property name="ActionMarker" value="True"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="StopActionMarker" value="True"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Back2" width="212" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt2smKqGYQgNHuvn3nq8YB5/n9HzJHQkgTMG4MQlIfnFWVtfqXZi8vL7+RU1BSUdPQ0tEzMDIxs7CysZOQkp3cvJq/3LgTRU+UvXqT5BSUVNQ0tHT0DIxMzCysbOwkpK/nN6/mR3ftRNETZW/eJDkFJRU1DS0dPQMjEzMLKxs7Cenb+c2r+dFdO1H0RNknb5KcgpKKmoaWjp6BkYmZhZWNnYT00/nNq/nRXTtR9ETZuzdJTkFJRU1DS0fPwMjEzMLKxk5C+n5+82p+dNdOFD1R9tmbJKegpKKmoaWjZ2BkYmZhZWMnIf18fvNqfnTXThQ9UfbFmySnoKSipqGlo2dgZGJmYWVjJyH9cn7zan50104UPVH21Zskp6CkoqahpaNnYGRiZmFlYych/Xp+82p+dNdOFD1R9s2bJKegpKKmoaWjZ2BkYmZhZWMnIf12fvNqfnTXThQ9UfbdmySnoKSipqGlo2dgZGJmYWVjJyH9fn7zan50104UPVH2w5skp6CkoqahpaNnYGRiZmFlYych/XF+82p+dNdOFD1R9tObJKegpKKmoaWjZ2BkYmZhZWMnIf15fvNqfnTXThQ9UfbLmySnoKSipqGlo2dgZGJmYWVjJyH9dX7zan50104UPVGWeJPkFJRU1DS0dPQMjEzMLKxs7CSkyfnNq/nRXTtRFEXR/6P3v/23/fr6l3/65qMo+q/3+vaHNz7xfuHjNx99/P7s1tm3d/g3bv/Z+9tLFEVRFEVRFEXRy+8cDknJ
+  </data>
+ </layer>
+ <layer name="walls" width="212" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt2rsOwyAMBdA4sPL/v1s6JWuHtK59joTEHXhISHjxcQAZrWLnQAcrfn0D+Mw6v7MGAAAAAAAAAAD4H+8WobFH3OazeY4H9qeHcz/82CPims/mOR7Ynx4y1YWKeeww9Qm3kakuVMz0kuUfr5bVpZ6y/OPVMj29ADpsBos=
+  </data>
+ </layer>
+ <layer name="META" width="212" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt07ENwDAQA7FPE3j/ibPExbABcgCpupm7vPNs2V4//sAp9AQdPUFHT9DRE3T0BB09QUdP0NETdPQEHT1BR0/Q0RN09AQdPUFHT9DRE3T0BB09QUdPnOwDDQsBzQ==
+  </data>
+ </layer>
+</map>

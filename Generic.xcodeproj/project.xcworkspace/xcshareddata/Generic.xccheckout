@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9AF6FE71-742A-4760-BD14-78E9384541BC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Generic</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B8D95727-5238-47A9-8AD4-25521B5F7770</key>
+		<string>https://subversion.assembla.com/svn/generic-iOS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/Generic.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B8D95727-5238-47A9-8AD4-25521B5F7770</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>B8D95727-5238-47A9-8AD4-25521B5F7770</key>
+		<string>https://subversion.assembla.com/svn/generic-iOS</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://subversion.assembla.com/svn/generic-iOS/trunk/Generic.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B8D95727-5238-47A9-8AD4-25521B5F7770</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B8D95727-5238-47A9-8AD4-25521B5F7770</string>
+			<key>IDESourceControlWCCName</key>
+			<string>generic-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

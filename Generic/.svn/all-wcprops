@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/generic-iOS/!svn/ver/12/trunk/Generic
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/main.m
+END
+PowerUp.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/generic-iOS/!svn/ver/12/trunk/Generic/PowerUp.h
+END
+ActionSprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/generic-iOS/!svn/ver/12/trunk/Generic/ActionSprite.h
+END
+Fugu.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/Fugu.h
+END
+GameLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/GameLayer.h
+END
+PowerUp.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/generic-iOS/!svn/ver/12/trunk/Generic/PowerUp.m
+END
+HelloWorldLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/HelloWorldLayer.h
+END
+ActionSprite.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/generic-iOS/!svn/ver/10/trunk/Generic/ActionSprite.m
+END
+Fugu.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/Fugu.m
+END
+GameLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/generic-iOS/!svn/ver/12/trunk/Generic/GameLayer.m
+END
+HelloWorldLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/HelloWorldLayer.m
+END
+meta_tiles.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/meta_tiles.png
+END
+IMG_0454.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/IMG_0454.png
+END
+GameScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/GameScene.h
+END
+IntroLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/generic-iOS/!svn/ver/6/trunk/Generic/IntroLayer.h
+END
+Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/Camera.h
+END
+Puss.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/Puss.h
+END
+Dummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/Dummy.h
+END
+GameScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/GameScene.m
+END
+Camera.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/Camera.m
+END
+Hero.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/generic-iOS/!svn/ver/8/trunk/Generic/Hero.h
+END
+IntroLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/IntroLayer.m
+END
+Item.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/generic-iOS/!svn/ver/12/trunk/Generic/Item.h
+END
+Puss.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/Puss.m
+END
+testStage.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/testStage.png
+END
+Dummy.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/generic-iOS/!svn/ver/12/trunk/Generic/Dummy.m
+END
+GameOverLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/GameOverLayer.h
+END
+Hero.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/generic-iOS/!svn/ver/12/trunk/Generic/Hero.m
+END
+Item.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/generic-iOS/!svn/ver/12/trunk/Generic/Item.m
+END
+GameOverLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/generic-iOS/!svn/ver/13/trunk/Generic/GameOverLayer.m
+END
+generic.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/generic-iOS/!svn/ver/7/trunk/Generic/generic.png
+END
+level2.tmx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/level2.tmx
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/AppDelegate.h
+END
+Button.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/generic-iOS/!svn/ver/11/trunk/Generic/Button.h
+END
+HudLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/generic-iOS/!svn/ver/8/trunk/Generic/HudLayer.h
+END
+HUD.png
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/generic-iOS/!svn/ver/8/trunk/Generic/HUD.png
+END
+Defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/generic-iOS/!svn/ver/8/trunk/Generic/Defines.h
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/AppDelegate.m
+END
+Button.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/Button.m
+END
+Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/Prefix.pch
+END
+generic.plist
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/generic-iOS/!svn/ver/7/trunk/Generic/generic.plist
+END
+HudLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/generic-iOS/!svn/ver/12/trunk/Generic/HudLayer.m
+END
+SimpleDPad.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/generic-iOS/!svn/ver/2/trunk/Generic/SimpleDPad.h
+END
+HUD.plist
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/generic-iOS/!svn/ver/8/trunk/Generic/HUD.plist
+END
+SimpleDPad.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/generic-iOS/!svn/ver/10/trunk/Generic/SimpleDPad.m
+END
